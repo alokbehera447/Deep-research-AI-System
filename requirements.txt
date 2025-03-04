@@ -1,0 +1,6 @@
+langchain
+langgraph
+tavily-python
+fastapi
+faiss-cpu
+uvicorn
